@@ -1,0 +1,3 @@
+Team Meeting,Discuss project milestones,2024-03-25T09:00:00,60
+Client Presentation,Present Q2 results to the client,2024-03-26T11:30:00,90
+Project Review,Review project phase 1 deliverables,2024-03-27T14:00:00,45
